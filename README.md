@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Adriano 👋
 
 - 🔭 Eu estou atualmente estudando Engenharia da Computação no CEFET-Pet !
-- 🌱 Eu estou atualmente aprendendo Python e SQL
+- 🌱 Eu estou atualmente aprendendo JS e SQL
 
 <div align="left">
   <a href="https://github.com/adrianogcunha">
